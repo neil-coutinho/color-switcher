@@ -8,6 +8,18 @@ html, body, #root, .react-root {
   align-items: center;
 }
 
+.react-root.red {
+  background-color: red;
+}
+
+.react-root.yellow {
+  background-color: yellow;
+}
+
+.react-root.blue {
+  background-color: blue;
+}
+
 .centered {
   text-align: center;
 }
